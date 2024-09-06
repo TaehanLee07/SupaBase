@@ -2,7 +2,6 @@
 FireBase? No SupaBase is the better
 
 ## FireBase 와 SupaBase 의 차이점
-***
 ### FireBase:
 #### Baas (Backend as a Service)
 - 서버 없이도 빠르게 앱을 출시할 수 있도록 나온 백엔드 플랫폼

@@ -19,3 +19,6 @@ FireBase? No SupaBase is the better
   - **복잡한 쿼리** 불가 (NoSQL 기반)
   - 유저가 많아졌을 때 **비용**이 많이 든다.
   - 앱 개발에는 월등히 좋으나 **웹 개발에 최적은 X**
+
+### Supabase:
+  - **오픈소스** 이다.
